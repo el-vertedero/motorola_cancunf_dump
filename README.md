@@ -1,0 +1,14 @@
+# user 15 V1TDS35H.83-20-5-8-6 f6c76f release-keys
+- manufacturer: motorola
+- platform: common
+- codename: cancunf
+- flavor: user
+- release: 15
+- id: V1TDS35H.83-20-5-8-6
+- incremental: f6c76f
+- tags: release-keys
+- fingerprint: motorola/cancunf_g_hal/cancunf:12/V1TDS35H.83-20-5-8-6/f6c76f:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-V1TDS35H.83-20-5-8-6-f6c76f-release-keys
+- repo: motorola_cancunf_dump
