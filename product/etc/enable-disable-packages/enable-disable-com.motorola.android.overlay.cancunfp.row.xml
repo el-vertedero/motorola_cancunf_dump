@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.motorola.android.overlay.cancunfp.row" default_action="disable">
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2431-1"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2431-3"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>

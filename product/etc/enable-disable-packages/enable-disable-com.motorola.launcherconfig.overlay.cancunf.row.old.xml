@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.motorola.launcherconfig.overlay.cancunf.row.old" default_action="disable">
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-1"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-2"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-3"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-4"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-5"/>
+        <criteria action="enable" prop="ro.boot.hardware.sku" prop_value="XT2343-6"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>

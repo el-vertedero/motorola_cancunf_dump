@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.motorola.android.overlay.cancunf.row.plus" default_action="enable">
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-1"/>
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-2"/>
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-3"/>
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-4"/>
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-5"/>
+        <criteria action="disable" prop="ro.boot.hardware.sku" prop_value="XT2343-6"/>
+        <criteria action="disable" prop="ro.vendor.hw.frontcolor" prop_value="ambrosia2"/>
+        <criteria action="disable" prop="ro.vendor.hw.frontcolor" prop_value="lavender"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>
